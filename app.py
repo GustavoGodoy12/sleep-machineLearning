@@ -216,20 +216,7 @@ app.layout = html.Div([
     ], className='row'),
     
 
-    html.Div([
-        html.H2("Mapa de Calor das Correlações"),
-        dcc.Graph(
-            id='heatmap-correlation',
-            figure=px.imshow(
-                df_model[FEATURES].corr(),
-                text_auto=True,
-                aspect="auto",
-                title='Mapa de Calor das Correlações entre Variáveis',
-                labels=dict(color="Correlação"),
-                color_continuous_scale='Viridis'
-            )
-        ),
-    ], style={'marginTop': 50}),
+    
     
 
     html.H2("Predição da Eficiência do Sono", style={'marginTop': 50}),
