@@ -30,6 +30,15 @@ Esta aplicação web permite a análise e predição de padrões de sono utiliza
 - **Avaliação do Modelo**: Veja as métricas de desempenho do modelo de Machine Learning na seção de avaliação.
 - **Importância das Features**: Confira quais variáveis têm maior impacto na eficiência do sono.
 
-## Contribuição
 
-Sinta-se à vontade para abrir issues ou pull requests para contribuir com melhorias na aplicação.
+
+![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
