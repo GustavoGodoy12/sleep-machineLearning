@@ -19,37 +19,7 @@ Esta aplicação web permite a análise e predição de padrões de sono utiliza
 - **Frontend**: Dash, Plotly
 - **Manipulação de Dados**: pandas, numpy
 
-## Instalação
-
-1. **Clone o repositório**
-
-    ```bash
-    git clone https://github.com/seu_usuario/sleep_analysis_app.git
-    cd sleep_analysis_app
-    ```
-
-2. **Crie e ative um ambiente virtual**
-
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # Para Linux/Mac
-    # ou
-    venv\Scripts\activate  # Para Windows
-    ```
-
-3. **Instale as dependências**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Execute a aplicação**
-
-    ```bash
-    python app.py
-    ```
-
-5. **Acesse no navegador**
+1. **Acesso no navegador**
 
     Abra o navegador e vá para `http://127.0.0.1:8050/`
 
@@ -63,7 +33,3 @@ Esta aplicação web permite a análise e predição de padrões de sono utiliza
 ## Contribuição
 
 Sinta-se à vontade para abrir issues ou pull requests para contribuir com melhorias na aplicação.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT.
